@@ -1,0 +1,20 @@
+APPLAB JP V15.4 — TOUT PRÊT POUR GITHUB
+
+L'ERREUR "FAILED TO CLONE" VENAIT D'UNE MAUVAISE ADRESSE :
+  Adresse du site : https://jchaffanjon07-lang.github.io/AppLab-Jp/  [PAS UN DÉPÔT]
+  Adresse du dépôt : https://github.com/jchaffanjon07-lang/AppLab-Jp.git  [DÉPÔT]
+
+MÉTHODE FACILE SANS CLONER :
+
+1. Sur StockDriveGPT01, ouvrez https://github.com/new
+2. Créez un dépôt PUBLIC nommé AppLab-Jp.
+3. DÉCOMPRESSEZ le présent ZIP sur votre ordinateur.
+4. Sur GitHub : Add file > Upload files.
+5. Glissez TOUS les fichiers décompressés à la racine du dépôt (index.html doit être visible dès la page principale), puis Commit changes.
+6. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+7. Quand Actions passe au vert, allez sur https://stockdrivegpt01.github.io/AppLab-Jp/
+
+ATTENTION : le ZIP ne doit PAS être importé tel quel dans GitHub comme fichier. Il faut décompresser et uploader ses fichiers.
+ATTENTION : les anciens téléphones installés depuis l'ancienne URL ne basculent pas automatiquement sur la nouvelle.
+
+Voir README.md pour les instructions détaillées.

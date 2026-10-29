@@ -1,0 +1,15 @@
+{
+  "application": "AppLab JP",
+  "version": "15.4.0",
+  "build": 156,
+  "published": "2026-10-29",
+  "title": "V15.4 — Mini-pelle animée après 2 minutes d’inactivité",
+  "notes": [
+    "Après 120 secondes sans action, une mini-pelle jaune entre dans le décor et simule un terrassement sur les logos officiels visibles",
+    "Creusement, mouvements du bras, poussière et trous temporaires : effets exclusivement graphiques, sans toucher aux vrais logos",
+    "Tout clic, toucher, déplacement de souris ou défilement arrête immédiatement l’animation",
+    "Animation suspendue en arrière-plan et désactivée pour les préférences de réduction des mouvements",
+    "Spirales, quatre applications officielles, ouverture graine → arbre, Atelier, données et mises à jour PWA préservés"
+  ],
+  "instructions": "Remplacer à la racine du même dépôt GitHub Pages index.html, service-worker.js et release.json. Vérifier Actions, puis activer la mise à jour V15.4 depuis la PWA installée. Ne pas désinstaller ou effacer les données du site."
+}

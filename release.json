@@ -1,15 +1,13 @@
 {
   "application": "AppLab JP",
-  "version": "15.3.2",
-  "build": 155,
-  "published": "2026-10-28",
-  "title": "V15.3.2 — Fiabilisation du démarrage de la PWA sur téléphone",
+  "version": "15.5.1",
+  "build": 158,
+  "published": "2026-10-30",
+  "title": "V15.5.1 — Lien officiel SKILLSPAGE activé",
   "notes": [
-    "Ouverture non bloquée par la mise en cache de la grande page HTML",
-    "Filet de sécurité automatique contre un écran de chargement bloqué",
-    "Conserve la spirale mobile A et l’animation de croissance de l’arbre",
-    "Quatre applications officielles, logos, filigrane et interface PC inchangés",
-    "Aucun effacement des données personnelles, activation volontaire des mises à jour"
+    "Ajout du lien officiel SKILLSPAGE : https://toto22471.github.io/skillspage/",
+    "Aucune modification des logos, des applications existantes, des menus ou des fonctionnalités de la V15.5",
+    "Numéro de version et cache PWA actualisés pour les applications installées"
   ],
-  "instructions": "Importer index.html, service-worker.js et release.json dans la racine du dépôt GitHub Pages existant. Ne pas effacer les données du site ; activer la mise à jour depuis la PWA lorsque proposée."
+  "instructions": "Publier index.html, service-worker.js et release.json à la racine du même dépôt GitHub Pages ; ouvrir la PWA installée et utiliser Mises à jour. Ne pas changer de domaine et ne pas supprimer les données locales."
 }
